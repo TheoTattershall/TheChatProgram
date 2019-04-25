@@ -1,0 +1,47 @@
+W:\008. Computing\Student work\2018-2019\Y12\Theo Tattershall\The Chat Program\The Chat Program\The Chat Program\bin\Debug\The Chat Program.exe.config
+W:\008. Computing\Student work\2018-2019\Y12\Theo Tattershall\The Chat Program\The Chat Program\The Chat Program\bin\Debug\The Chat Program.exe
+W:\008. Computing\Student work\2018-2019\Y12\Theo Tattershall\The Chat Program\The Chat Program\The Chat Program\bin\Debug\The Chat Program.pdb
+W:\008. Computing\Student work\2018-2019\Y12\Theo Tattershall\The Chat Program\The Chat Program\The Chat Program\obj\Debug\The Chat Program.csprojAssemblyReference.cache
+W:\008. Computing\Student work\2018-2019\Y12\Theo Tattershall\The Chat Program\The Chat Program\The Chat Program\obj\Debug\The_Chat_Program.FormMain.resources
+W:\008. Computing\Student work\2018-2019\Y12\Theo Tattershall\The Chat Program\The Chat Program\The Chat Program\obj\Debug\The_Chat_Program.Properties.Resources.resources
+W:\008. Computing\Student work\2018-2019\Y12\Theo Tattershall\The Chat Program\The Chat Program\The Chat Program\obj\Debug\The Chat Program.csproj.GenerateResource.cache
+W:\008. Computing\Student work\2018-2019\Y12\Theo Tattershall\The Chat Program\The Chat Program\The Chat Program\obj\Debug\The Chat Program.csproj.CoreCompileInputs.cache
+W:\008. Computing\Student work\2018-2019\Y12\Theo Tattershall\The Chat Program\The Chat Program\The Chat Program\obj\Debug\The Chat Program.exe
+W:\008. Computing\Student work\2018-2019\Y12\Theo Tattershall\The Chat Program\The Chat Program\The Chat Program\obj\Debug\The Chat Program.pdb
+W:\008. Computing\Student work\2018-2019\Y12\Theo Tattershall\The Chat Program\The Chat Program\The Chat Program\obj\Debug\The_Chat_Program.FormChat.resources
+W:\008. Computing\Student work\2018-2019\Y12\Theo Tattershall\The Chat Program\TheChatProgram\The Chat Program\The Chat Program\bin\Debug\The Chat Program.exe.config
+W:\008. Computing\Student work\2018-2019\Y12\Theo Tattershall\The Chat Program\TheChatProgram\The Chat Program\The Chat Program\bin\Debug\The Chat Program.exe
+W:\008. Computing\Student work\2018-2019\Y12\Theo Tattershall\The Chat Program\TheChatProgram\The Chat Program\The Chat Program\bin\Debug\The Chat Program.pdb
+W:\008. Computing\Student work\2018-2019\Y12\Theo Tattershall\The Chat Program\TheChatProgram\The Chat Program\The Chat Program\obj\Debug\The Chat Program.csprojAssemblyReference.cache
+W:\008. Computing\Student work\2018-2019\Y12\Theo Tattershall\The Chat Program\TheChatProgram\The Chat Program\The Chat Program\obj\Debug\The_Chat_Program.FormChat.resources
+W:\008. Computing\Student work\2018-2019\Y12\Theo Tattershall\The Chat Program\TheChatProgram\The Chat Program\The Chat Program\obj\Debug\The_Chat_Program.FormMain.resources
+W:\008. Computing\Student work\2018-2019\Y12\Theo Tattershall\The Chat Program\TheChatProgram\The Chat Program\The Chat Program\obj\Debug\The_Chat_Program.Properties.Resources.resources
+W:\008. Computing\Student work\2018-2019\Y12\Theo Tattershall\The Chat Program\TheChatProgram\The Chat Program\The Chat Program\obj\Debug\The Chat Program.csproj.GenerateResource.cache
+W:\008. Computing\Student work\2018-2019\Y12\Theo Tattershall\The Chat Program\TheChatProgram\The Chat Program\The Chat Program\obj\Debug\The Chat Program.csproj.CoreCompileInputs.cache
+W:\008. Computing\Student work\2018-2019\Y12\Theo Tattershall\The Chat Program\TheChatProgram\The Chat Program\The Chat Program\obj\Debug\The Chat Program.exe
+W:\008. Computing\Student work\2018-2019\Y12\Theo Tattershall\The Chat Program\TheChatProgram\The Chat Program\The Chat Program\obj\Debug\The Chat Program.pdb
+D:\My Files\Documents\Visual Studio 2017\The Chat Program\TheoTattershall\TheChatProgram\The Chat Program\The Chat Program\bin\Debug\The Chat Program.exe.config
+D:\My Files\Documents\Visual Studio 2017\The Chat Program\TheoTattershall\TheChatProgram\The Chat Program\The Chat Program\bin\Debug\The Chat Program.exe
+D:\My Files\Documents\Visual Studio 2017\The Chat Program\TheoTattershall\TheChatProgram\The Chat Program\The Chat Program\bin\Debug\The Chat Program.pdb
+D:\My Files\Documents\Visual Studio 2017\The Chat Program\TheoTattershall\TheChatProgram\The Chat Program\The Chat Program\obj\Debug\The Chat Program.csprojAssemblyReference.cache
+D:\My Files\Documents\Visual Studio 2017\The Chat Program\TheoTattershall\TheChatProgram\The Chat Program\The Chat Program\obj\Debug\The_Chat_Program.FormChat.resources
+D:\My Files\Documents\Visual Studio 2017\The Chat Program\TheoTattershall\TheChatProgram\The Chat Program\The Chat Program\obj\Debug\The_Chat_Program.FormMain.resources
+D:\My Files\Documents\Visual Studio 2017\The Chat Program\TheoTattershall\TheChatProgram\The Chat Program\The Chat Program\obj\Debug\The_Chat_Program.Properties.Resources.resources
+D:\My Files\Documents\Visual Studio 2017\The Chat Program\TheoTattershall\TheChatProgram\The Chat Program\The Chat Program\obj\Debug\The Chat Program.csproj.GenerateResource.cache
+D:\My Files\Documents\Visual Studio 2017\The Chat Program\TheoTattershall\TheChatProgram\The Chat Program\The Chat Program\obj\Debug\The Chat Program.csproj.CoreCompileInputs.cache
+D:\My Files\Documents\Visual Studio 2017\The Chat Program\TheoTattershall\TheChatProgram\The Chat Program\The Chat Program\obj\Debug\The Chat Program.exe
+D:\My Files\Documents\Visual Studio 2017\The Chat Program\TheoTattershall\TheChatProgram\The Chat Program\The Chat Program\obj\Debug\The Chat Program.pdb
+D:\My Files\Documents\Visual Studio 2017\The Chat Program\TheoTattershall\TheChatProgram\The Chat Program\The Chat Program\obj\Debug\The_Chat_Program.FormError.resources
+W:\008. Computing\Student work\2018-2019\Y12\Theo Tattershall\The Chat Program\The Chat Program\The Chat Program\obj\Debug\The_Chat_Program.FormError.resources
+D:\My Files\Documents\Visual Studio 2017\The Chat Program\The Chat Program\The Chat Program\bin\Debug\The Chat Program.exe.config
+D:\My Files\Documents\Visual Studio 2017\The Chat Program\The Chat Program\The Chat Program\bin\Debug\The Chat Program.exe
+D:\My Files\Documents\Visual Studio 2017\The Chat Program\The Chat Program\The Chat Program\bin\Debug\The Chat Program.pdb
+D:\My Files\Documents\Visual Studio 2017\The Chat Program\The Chat Program\The Chat Program\obj\Debug\The Chat Program.csprojAssemblyReference.cache
+D:\My Files\Documents\Visual Studio 2017\The Chat Program\The Chat Program\The Chat Program\obj\Debug\The_Chat_Program.FormError.resources
+D:\My Files\Documents\Visual Studio 2017\The Chat Program\The Chat Program\The Chat Program\obj\Debug\The_Chat_Program.FormChat.resources
+D:\My Files\Documents\Visual Studio 2017\The Chat Program\The Chat Program\The Chat Program\obj\Debug\The_Chat_Program.FormMain.resources
+D:\My Files\Documents\Visual Studio 2017\The Chat Program\The Chat Program\The Chat Program\obj\Debug\The_Chat_Program.Properties.Resources.resources
+D:\My Files\Documents\Visual Studio 2017\The Chat Program\The Chat Program\The Chat Program\obj\Debug\The Chat Program.csproj.GenerateResource.cache
+D:\My Files\Documents\Visual Studio 2017\The Chat Program\The Chat Program\The Chat Program\obj\Debug\The Chat Program.csproj.CoreCompileInputs.cache
+D:\My Files\Documents\Visual Studio 2017\The Chat Program\The Chat Program\The Chat Program\obj\Debug\The Chat Program.exe
+D:\My Files\Documents\Visual Studio 2017\The Chat Program\The Chat Program\The Chat Program\obj\Debug\The Chat Program.pdb
